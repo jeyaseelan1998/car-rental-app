@@ -1,0 +1,17 @@
+.login-bg-container {
+    flex: 1;
+}
+
+.login-heading {
+    font-family: "Roboto";
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+
+.form-container {
+    width: 355px;
+    height: 420px;
+    border-radius: 16px;
+}

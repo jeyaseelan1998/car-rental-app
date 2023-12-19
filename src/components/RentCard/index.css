@@ -1,0 +1,45 @@
+.rent-card {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    width: 350px;
+    margin: 0 15px 15px 0;
+}
+
+.car-image {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.car-name {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.car-description {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+    color: rgb(91, 89, 87);
+}
+
+.location, .rating {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 0;
+    color: rgb(91, 89, 87);
+}
+.location-icon {
+    margin-right: 5px;
+    color: rgb(17, 197, 242);
+}
+
+.star-icon {
+    margin-bottom: 6px;
+    margin-right: 5px;
+    color: rgb(247, 143, 46);
+}

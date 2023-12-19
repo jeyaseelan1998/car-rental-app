@@ -1,0 +1,12 @@
+.inputs-form-container {
+    width: 750px;
+}
+
+.add-new-car-heading {
+    text-align: center;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 25px;
+}

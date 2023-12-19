@@ -11,8 +11,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.route-bg-container {
+.app-container {
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 }
